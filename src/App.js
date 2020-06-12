@@ -7,18 +7,21 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
+        <h3
           className="App-link"
-          href="https://reactjs.org"
+        >
+          Richard Tinajero
+        </h3>
+        <a 
+          href="https://github.com/rj-tinajero/profile/blob/master/RichardTinajero_Resume.pdf" 
           target="_blank"
           rel="noopener noreferrer"
         >
-          Richard Tinajero
+          My Resume
         </a>
-        <a href="rj-tinajero.github.io/profile/RichardTinajero_Resume.pdf" target="_blank">My Resume</a>
+        <a href="https://github.com/rj-tinajero" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="https://linkedin.com/in/richard-tinajero" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+
       </header>
     </div>
   );
