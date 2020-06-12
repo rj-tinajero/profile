@@ -18,6 +18,7 @@ function App() {
         >
           Richard Tinajero
         </a>
+        <a href="rj-tinajero.github.io/profile/RichardTinajero_Resume.pdf" target="_blank">My Resume</a>
       </header>
     </div>
   );
