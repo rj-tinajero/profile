@@ -13,6 +13,17 @@
   color: #272643;
 }
 
+.headshot {
+  border-radius: 50%;
+  width: 200px;
+}
+
+.bg_img {
+  width: 670px;
+  float: left;
+  min-height: 100vh;
+}
+
 .link_out {
   color: #1AC0C6;
   text-decoration-line: underline;
