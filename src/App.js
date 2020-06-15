@@ -42,6 +42,10 @@ function App() {
             
 
             <h5>PROJECTS</h5>
+            <div>
+              
+            </div>
+
             <br></br>
             <div className="row">
               <div className="contact col-8">
@@ -54,7 +58,7 @@ function App() {
                 
                 
               </div>
-              <div className="social col-4">
+              <div className="social col-2">
                   <a href="https://linkedin.com/in/richard-tinajero" target="_blank"><img src={linkedin} /></a>
                   <a href="https://github.com/rj-tinajero" target="_blank"><img src={github} /></a>
               </div>
